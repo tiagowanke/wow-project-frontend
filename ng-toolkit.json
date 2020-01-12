@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "wow-project-ui",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "wow-project-ui",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
